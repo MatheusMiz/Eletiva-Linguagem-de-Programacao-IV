@@ -22,10 +22,10 @@
           <a class="nav-link" href="ex2.php">Ex 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Ex 3</a>
+          <a class="nav-link" href="ex3.php">Ex 3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Ex 4</a>
+          <a class="nav-link" href="ex4.php">Ex 4</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Ex 5</a>
