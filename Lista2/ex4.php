@@ -96,8 +96,8 @@
         
         $numero1 = $_POST['numero1'];
         $numero2 = $_POST['numero2'];
-        if($numero2 < 0){
-            echo "Erro";
+        if($numero2 == 0){
+            echo "Erro! Não é possível dividir por zero";
         }
 
         $divi = $numero1 / $numero2;
