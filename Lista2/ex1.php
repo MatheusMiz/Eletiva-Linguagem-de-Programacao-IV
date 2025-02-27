@@ -91,16 +91,14 @@
     </form>
 
     <?php
-    // Verifica se os valores foram enviados via POST
+    
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        // Recupera os números inseridos
+        
         $numero1 = $_POST['numero1'];
         $numero2 = $_POST['numero2'];
 
-        // Realiza a soma
         $soma = $numero1 + $numero2;
 
-        // Exibe o resultado
         echo "<h3>Resultado: $numero1 + $numero2 = $soma</h3>";
     }
     ?>
