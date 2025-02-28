@@ -79,7 +79,7 @@
     </div>
   </div>
 </nav>
-<h2>Insira dois números para subtrair:</h2>
+<h2>Insira as notas do aluno:</h2>
     <form method="post" action="">
         <label for="nota1">Nota 1:</label>
         <input type="double" name="nota1" required><br><br>
