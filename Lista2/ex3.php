@@ -79,7 +79,7 @@
     </div>
   </div>
 </nav>
-<h2>Insira dois números para subtrair:</h2>
+<h2>Insira dois números para multiplicar:</h2>
     <form method="post" action="">
         <label for="numero1">Número 1:</label>
         <input type="number" name="numero1" required><br><br>
